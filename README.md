@@ -5,7 +5,7 @@ The script `mitofish2tbl.py` was developed and tested with Python 2.7.12 and is 
 
 ## Testdata
 
-The directory testdata contains a directory `mitoannotator` with results obtained recently (26.11.2020) from the Mitofish annotation pipeline ([link](http://mitofish.aori.u-tokyo.ac.jp/annotation/input.html)). The original DNA sequence submitted is in the file `testdata/mitoannotator/Thy10.fa`. 
+The directory testdata contains annotation results obtained from the Mitofish annotation pipeline ([link](http://mitofish.aori.u-tokyo.ac.jp/annotation/input.html), last accessed 26.11.2020). The original DNA sequence submitted is in the file `testdata/Thy10.fa`. 
 
 ## Usage
 
@@ -13,8 +13,8 @@ The script takes exactly one input file (mitoannotator annotation file, e.g. `an
 
 Try it, like so:
 ```bash
-(host)-$ ./mitofish2tbl.py testdata/mitoannotator/Thy10.txt
-mitofish file to convert: testdata/mitoannotator/Thy10.txt
-writing to: testdata/mitoannotator/Thy10.tbl
+(host)-$ ./mitofish2tbl.py testdata/Thy10.txt 
+mitofish file to convert: testdata/Thy10.txt
+writing to: testdata/Thy10.tbl
 ```
 

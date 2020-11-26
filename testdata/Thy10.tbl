@@ -1,0 +1,147 @@
+>Feature Thy10
+2841	3815	gene
+			gene	ND1
+2841	3815	CDS
+			product	NADH dehydrogenase subunit 1
+			transl_table	2
+			codon_start	1
+4032	5080	gene
+			gene	ND2
+4032	5080	CDS
+			product	NADH dehydrogenase subunit 2
+			note	Incomplete stop codon
+			transl_except	(pos:5079..5080,aa:TERM)
+			transl_table	2
+			codon_start	1
+5469	7019	gene
+			gene	COI
+5469	7019	CDS
+			product	cytochrome c oxidase subunit I
+			transl_table	2
+			codon_start	1
+7183	7873	gene
+			gene	COII
+7183	7873	CDS
+			product	cytochrome c oxidase subunit II
+			note	Incomplete stop codon
+			transl_except	(pos:7873,aa:TERM)
+			transl_table	2
+			codon_start	1
+7949	8116	gene
+			gene	ATPase 8
+7949	8116	CDS
+			product	ATPase subunit 8
+			transl_table	2
+			codon_start	1
+8107	8789	gene
+			gene	ATPase 6
+8107	8789	CDS
+			product	ATPase subunit 6
+			note	Incomplete stop codon
+			transl_except	(pos:8788..8789,aa:TERM)
+			transl_table	2
+			codon_start	1
+8790	9574	gene
+			gene	COIII
+8790	9574	CDS
+			product	cytochrome c oxidase subunit III
+			note	Incomplete stop codon
+			transl_except	(pos:9573..9574,aa:TERM)
+			transl_table	2
+			codon_start	1
+9645	9993	gene
+			gene	ND3
+9645	9993	CDS
+			product	NADH dehydrogenase subunit 3
+			note	Incomplete stop codon
+			transl_except	(pos:9993,aa:TERM)
+			transl_table	2
+			codon_start	1
+10064	10360	gene
+			gene	ND4L
+10064	10360	CDS
+			product	NADH dehydrogenase subunit 4L
+			transl_table	2
+			codon_start	1
+10354	11734	gene
+			gene	ND4
+10354	11734	CDS
+			product	NADH dehydrogenase subunit 4
+			note	Incomplete stop codon
+			transl_except	(pos:11734,aa:TERM)
+			transl_table	2
+			codon_start	1
+11948	13786	gene
+			gene	ND5
+11948	13786	CDS
+			product	NADH dehydrogenase subunit 5
+			transl_table	2
+			codon_start	1
+14304	13783	gene
+			gene	ND6
+14304	13783	CDS
+			product	NADH dehydrogenase subunit 6
+			transl_table	2
+			codon_start	1
+14378	15518	gene
+			gene	Cyt b
+14378	15518	CDS
+			product	cytochrome b
+			note	Incomplete stop codon
+			transl_except	(pos:15518,aa:TERM)
+			transl_table	2
+			codon_start	1
+69	1014	rRNA
+			product	12S rRNA
+1087	2765	rRNA
+			product	16S rRNA
+1	68	tRNA
+			product	tRNA-Phe
+1015	1086	tRNA
+			product	tRNA-Val
+2766	2840	tRNA
+			product	tRNA-Leu
+			note	Atypical codon: UAA
+3824	3895	tRNA
+			product	tRNA-Ile
+3963	3893	tRNA
+			product	tRNA-Gln
+3963	4031	tRNA
+			product	tRNA-Met
+5081	5152	tRNA
+			product	tRNA-Trp
+5222	5154	tRNA
+			product	tRNA-Ala
+5296	5224	tRNA
+			product	tRNA-Asn
+5396	5330	tRNA
+			product	tRNA-Cys
+5467	5397	tRNA
+			product	tRNA-Tyr
+7090	7020	tRNA
+			product	tRNA-Ser
+			note	Atypical codon: UGA
+7095	7168	tRNA
+			product	tRNA-Asp
+7874	7947	tRNA
+			product	tRNA-Lys
+9575	9644	tRNA
+			product	tRNA-Gly
+9994	10063	tRNA
+			product	tRNA-Arg
+11735	11803	tRNA
+			product	tRNA-His
+11804	11873	tRNA
+			product	tRNA-Ser
+			note	Atypical codon: GCU
+11875	11947	tRNA
+			product	tRNA-Leu
+			note	Atypical codon: UAG
+14373	14305	tRNA
+			product	tRNA-Glu
+15519	15590	tRNA
+			product	tRNA-Thr
+15659	15590	tRNA
+			product	tRNA-Pro
+15660	16662	D-loop
+			note	control region
